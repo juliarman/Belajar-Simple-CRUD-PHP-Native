@@ -1,0 +1,245 @@
+
+
+
+
+
+body {
+
+    background-color: #F5F5F5;
+    height: 100%;
+}
+
+th {   
+
+    width: 100px;
+    background-color: #5893d4;
+    font-family: roboto;
+}
+
+tr {
+
+    background-color: #F5F5F5;
+
+}
+
+td {
+
+    text-align: center;
+    background-color:#9ac1ec;
+}
+
+table {
+
+    width: 900px;
+    height: auto;
+    font-family: roboto;
+}
+
+
+select{
+
+    margin-left: 20px;
+    font-family: roboto;
+    width: 170px;
+    height: 30px;
+}
+
+
+header {
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+    padding: 0%;
+    width: 100%;
+    height: 120px;
+    background-color: #1F3C88;
+    border-bottom: 3px solid #5893d4;
+
+}
+
+header h4 {
+
+    font-family: arial;
+    position: relative;
+    left: 20px;
+    bottom: 25px;
+    color: whitesmoke;
+}
+
+
+nav{
+    position: relative;
+    bottom: 45px;
+    float: right;
+    background-color: #5893d4;
+    width: 500px;
+    border-radius: 50px 0px 0px 0px;
+}
+
+nav li {
+    position: relative;
+    left: 20px;
+    list-style-type: none;
+    margin: 11px;
+    
+    display: inline-block;
+}
+
+nav li a {
+
+  
+    color: #F5F5F5;
+    font-family: roboto;
+    text-decoration: none;
+}
+
+
+nav li a:hover {
+    padding: 10px;
+    color: rgb(51, 51, 51);
+    background-color: #F5F5F5;
+}
+
+.judul{
+    color: #F5F5F5;
+    font-family: roboto;
+    margin-left: 20px;
+   
+}
+
+
+
+.areanya {
+    width: 600px;
+    height: 500px;  
+    top: 130px;
+    position: relative; 
+}
+
+.areanya h1 {
+    font-family: Roboto;
+    margin-left: 20px;
+}
+
+
+.areanya .inputandesain {
+
+    
+    border-radius: 6px;
+    width: 221px;
+    height: 36px;
+    border: 0;
+    display: inline-block;
+    margin-left: 10px;
+    color: #878787;
+    font-size: 15px;
+    
+  
+}
+
+
+
+
+.areanya .inputandesain::-webkit-input-placeholder {
+    color: #878787;
+    font-size: 15px;
+    padding: 15px;  
+    
+}
+
+.areanya .niknya::-webkit-input-placeholder {
+    color: #878787;
+    font-size: 15px;
+    padding: 15px;  
+}
+
+
+
+.areanya .niknya{
+
+    border-radius: 6px;
+    width: 456px;
+    height: 36px;
+    border: 0;
+    display: inline-block;
+    margin-left: 10px;
+    color: #878787;
+    font-size: 15px;
+   
+}
+
+.areanya h4 {
+
+    font-family: roboto;
+    color: #878787;
+    margin-left: 20px;
+
+}
+
+.areanya label{
+
+    font-family: roboto;
+    color: #878787;
+}
+
+.areanya .jenkel{
+margin-left: 20px;
+}
+
+
+.areanya .fotona{
+    margin-left: 20px;
+    }
+
+.footernya {
+    display: inline-block;
+    width: 1230px;
+    font-family: roboto;
+    background-color: #1F3C88;
+    line-height: 10px;
+    padding: 10px;
+    color: white;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 100px;
+    
+
+}
+
+
+.login {
+    left: 60%;
+    font-family: roboto;
+    border-radius: 50px;
+    padding: 120px;
+    top: 70px;
+    position: relative;
+    display: inline-block;
+    height: auto;
+    width: auto;
+    background-color: #5893d4;
+}
+
+.formnya{
+
+    margin-left: 70%;
+    
+    
+}
+
+.formnya td {
+    background-color: #F5F5F5;
+
+}
+
+.formnya table {
+    width: 20px;
+
+}
+
+
+
+
